@@ -10,7 +10,7 @@
     <img src="https://img.shields.io/badge/Email-jagadeesan.r12%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <img src="https://img.shields.io/badge/Location-Coimbatore%2C%20India-6C63FF?style=for-the-badge&logo=googlemaps&logoColor=white" />
-  <img src="https://img.shields.io/badge/Phone-7539963933-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+ 
 </p>
 
 ---
